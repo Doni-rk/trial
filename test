@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>APICON 2025 - Africa Pig Conference</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <!-- Header Section -->
+    <header>
+        <div class="container">
+            <h1>APICON 2025</h1>
+            <p>Africa Pig Industry Conference | 11-12 September 2025</p>
+            <nav>
+                <ul>
+                    <li><a href="#home">Home</a></li>
+                    <li><a href="#about">About</a></li>
+                    <li><a href="#agenda">Agenda</a></li>
+                    <li><a href="#speakers">Speakers</a></li>
+                    <li><a href="#sponsors">Sponsors</a></li>
+                    <li><a href="#contact">Contact</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <!-- Hero Section -->
+    <section id="home" class="hero">
+        <div class="container">
+            <h2>Welcome to APICON 2025</h2>
+            <p>The premier event for the African Pig Industry, uniting farmers, experts, and stakeholders.</p>
+            <a href="#register" class="btn">Register Now</a>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <h2>About APICON 2025</h2>
+            <p>APICON 2025 will take place on 11-12 September 2025, focusing on advancing the pig industry across Africa. The conference will bring together international delegates, experts, farmers, and stakeholders to discuss trends, innovations, and solutions in the sector.</p>
+        </div>
+    </section>
+
+    <!-- Agenda Section -->
+    <section id="agenda">
+        <div class="container">
+            <h2>Agenda</h2>
+            <ul>
+                <li><strong>Day 1 - 11th September 2025:</strong> Keynote speeches, breakout sessions, and expert panels.</li>
+                <li><strong>Day 2 - 12th September 2025:</strong> Workshops, networking sessions, and closing ceremony.</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Speakers Section -->
+    <section id="speakers">
+        <div class="container">
+            <h2>Speakers</h2>
+            <p>Meet the leading voices shaping the pig industry in Africa.</p>
+            <ul>
+                <li>Prof. Shemdoe - Guest of Honor</li>
+                <li>Dr. Azory Mbuma - Pig Value Chain Specialist</li>
+                <li>Doreen Maro - Chairperson TAPIFA</li>
+                <li>More speakers to be announced...</li>
+            </ul>
+        </div>
+    </section>
+
+    <!-- Sponsors Section -->
+    <section id="sponsors">
+        <div class="container">
+            <h2>Our Sponsors</h2>
+            <p>We are grateful to our sponsors for making APICON 2025 possible.</p>
+            <p>Interested in sponsorship opportunities? <a href="#contact">Contact us</a> today!</p>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact">
+        <div class="container">
+            <h2>Contact Us</h2>
+            <p>For inquiries about registration, sponsorship, or participation, reach out to us:</p>
+            <p>Email: <a href="mailto:info@apicon2025.com">info@apicon2025.com</a></p>
+            <p>Phone: +255 123 456 789</p>
+        </div>
+    </section>
+
+    <!-- Footer Section -->
+    <footer>
+        <div class="container">
+            <p>&copy; 2025 APICON. All Rights Reserved.</p>
+        </div>
+    </footer>
+</body>
+</html>
